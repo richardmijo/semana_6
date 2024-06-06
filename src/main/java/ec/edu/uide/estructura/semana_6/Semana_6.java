@@ -18,6 +18,8 @@ public class Semana_6 {
        System.out.print("Cambio 1");
        
        System.out.print("Cambio 2");
+
+       System.out.print("Cambio 4");
        
     }
 }

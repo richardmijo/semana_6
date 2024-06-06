@@ -29,5 +29,8 @@ public class Semana_6 {
 
     public metodoP2(){
         System.out.print("Cambio 4 eueueasdasd");
+    
+    public void metodo1(){
+        System.out.print("Cambio 3");
     }
 }

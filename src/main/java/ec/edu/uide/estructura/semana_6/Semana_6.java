@@ -15,6 +15,6 @@ public class Semana_6 {
         System.out.println("Hello World!");
         
         
-       System.out.print("------");
+       System.out.print("Cambio 1");
     }
 }

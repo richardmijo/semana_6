@@ -1,2 +1,3 @@
 Contenido inicial del archivo colaborativo
 "Cristina:Mi contribucion al archivo colaborativo" 
+"Hola mundo"
